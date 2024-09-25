@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "/Users/willowbullignton/Documents/com-cm-523-design-interactive-experiences-assignment-1-test-your-connections-cm523-test-your-conne-1/src/index.html"
+        }
+    ]
+}
